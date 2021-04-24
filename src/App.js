@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
       <h1>
-        ttt
+        ホイップ
       </h1>
     </div>
   )
